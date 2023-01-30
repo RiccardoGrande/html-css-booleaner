@@ -7,6 +7,11 @@ header{
     
 }
 
+h1{
+    font-size: 50px;
+
+}
+
 span{
     font-size: 20px;
 }
@@ -28,5 +33,29 @@ img{
     margin-top: 20px;
 }
 
+p{
+    font-size: 20px;
+}
+
+#frase{
+
+    background-color: yellow;
+}
+
+ul{
+    font-size: 20px;
+}
+
+#intestazione{
+
+    background-color: deepskyblue;
+    color: white;
+}
+
+.tabella{
+
+background-color: lightblue;
+
+}
 
 
