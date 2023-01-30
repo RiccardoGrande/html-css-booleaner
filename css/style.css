@@ -7,4 +7,24 @@ header{
     
 }
 
+span{
+    font-size: 20px;
+}
+
+
+#scritto_da,#data{
+
+    color: grey;
+}
+
+
+#writer{
+
+    color: aqua;
+
+}
+
+
+
+
 
