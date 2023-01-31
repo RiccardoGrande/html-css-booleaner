@@ -12,6 +12,12 @@ h1{
 
 }
 
+.logo{
+
+    width: 140px;
+
+}
+
 span{
     font-size: 20px;
 }
@@ -26,6 +32,7 @@ span{
 #writer{
 
     color: aqua;
+    text-decoration: none;
 
 }
 
